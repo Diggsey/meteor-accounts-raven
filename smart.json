@@ -1,0 +1,10 @@
+{
+  "name": "accounts-raven",
+  "description": "Login service for Cambridge University Raven accounts",
+  "homepage": "https://github.com/Diggsey/meteor-accounts-raven",
+  "author": "Diggory Blake (Diggsey), Amar Sood (tekacs)",
+  "version": "0.1.0",
+  "git": "https://github.com/Diggsey/meteor-accounts-raven.git",
+  "packages": {
+  }
+}
