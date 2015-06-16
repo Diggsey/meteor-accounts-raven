@@ -1,6 +1,6 @@
 Package.describe({
   name: 'diggsey:accounts-raven',
-  version: '0.2',
+  version: '0.2.0',
   summary: 'Login service for Cambridge University Raven accounts',
   git: 'https://github.com/Diggsey/meteor-accounts-raven.git',
   documentation: null
